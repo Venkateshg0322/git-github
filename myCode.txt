@@ -6,3 +6,6 @@ common prefix,
 rotate 
 and find index
 longest palindrome 
+
+
+This are coding challenges given in mid 2 exam in MITS CST ABC
