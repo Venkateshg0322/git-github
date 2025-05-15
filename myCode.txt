@@ -5,4 +5,4 @@ anagram,
 common prefix, 
 rotate 
 and find index
-longest palindrome substrin
+longest palindrome 
